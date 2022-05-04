@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <title>Index</title>
+    <link rel="stylesheet" href="CSS/Style.css">
+</head>
+
+<body >
+    <h1> <span.titulo >¿Quien Soy?</span></h1>
+    <br>
+    <hr>
+    <p>Nombre: Diego Rangel </p>
+    <p>Edad: 24 Años</p>
+    <p>Nacionalidad: Mexicano</p>
+    <hr>
+    <br>
+    <p>Hobbies</p>
+    <ul>
+        <li>Reposteria</li>
+        <li>Gamming</li>
+    </ul>
+    <img src="SRC/Manzana.jpg" width="200">
+    <img src="SRC/Gamming.jpg" width="200">
+    <br>
+    <hr>
+    <p>Curriculum</p>
+    <ol>
+        <li>Idiomas</li>
+        <ul>
+            <li>Ingles 85%</li>
+            <li>Español 90%</li>
+            <li>Frances 25%</li>
+        </ul>
+        <li>Experiencia</li>
+    </ol>
+</body>
+
+</html>
